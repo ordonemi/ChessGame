@@ -1,0 +1,20 @@
+﻿  bishop.cpp
+  board.cpp
+  chess.cpp
+  king.cpp
+  knight.cpp
+  move.cpp
+  pawn.cpp
+  piece.cpp
+  position.cpp
+  queen.cpp
+  rook.cpp
+  test.cpp
+  testMove.cpp
+  testPawn.cpp
+  testPiece.cpp
+  testPosition.cpp
+  uiDraw.cpp
+  uiInteract.cpp
+  Generating Code...
+  Lab01.vcxproj -> C:\Users\kingl\OneDrive\Documents\cse231\ChessLab\x64\Debug\Lab01.exe
