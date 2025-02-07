@@ -2,13 +2,13 @@
 This project is an **interactive Chess game simulator** that allows users to play chess by clicking on pieces to see their valid moves and executing moves directly on the board. The game follows official chess rules, including castling, en passant, and pawn promotion. Additionally, it can read and execute moves from a file as an extra feature.  
 
 ### Features  
-- 🔹 **Interactive Gameplay** – Click on a piece to highlight valid moves and make a move by selecting a destination square.  
-- 🔹 **Castling** – Implements both king's-side and queen's-side castling.  
-- 🔹 **En Passant** – Recognizes and executes en passant pawn captures.  
-- 🔹 **Piece-Specific Movements** – Ensures accurate movement for all six chess pieces.  
-- 🔹 **Pawn Promotion** – Automatically promotes pawns to queens when reaching the last rank.  
-- 🔹 **Move History** – Tracks all moves made during the game.  
-- 🔹 **File-Based Move Execution** – Can read and execute chess moves from a file.  
+- **Interactive Gameplay** – Click on a piece to highlight valid moves and make a move by selecting a destination square.  
+- **Castling** – Implements both king's-side and queen's-side castling.  
+- **En Passant** – Recognizes and executes en passant pawn captures.  
+- **Piece-Specific Movements** – Ensures accurate movement for all six chess pieces.  
+- **Pawn Promotion** – Automatically promotes pawns to queens when reaching the last rank.  
+- **Move History** – Tracks all moves made during the game.  
+- **File-Based Move Execution** – Can read and execute chess moves from a file.  
 
 ### Supported Chess Pieces & Moves  
 - 👑 **King** – Moves one square in any direction; can castle under certain conditions.  
